@@ -1,3 +1,5 @@
+## This has been superseded by https://github.com/Jire/Strukt
+
 # Strukt
 _Thread-safe mux referenced "structures" with an easy Kotlin syntax_
 
